@@ -1,0 +1,31 @@
+id,tratamento,tipo_solo,ph,altura,peso,numero_vagens,qualidade_folhagem
+1,Controle,Argiloso,6.5,45.2,55.8,12,Baixa
+2,Padrão,Arenoso,6.8,58.9,72.1,18,Média
+3,Novo Fertilizante,Húmus,7.1,75.4,95.5,25,Alta
+4,Controle,Argiloso,6.4,48.1,60.3,14,Baixa
+5,Padrão,Arenoso,6.7,62.5,78.2,20,Média
+6,Novo Fertilizante,Húmus,7.2,78.8,102.1,28,Alta
+7,Controle,Argiloso,6.6,42.9,51.7,11,Baixa
+8,Padrão,Arenoso,6.9,65.1,80.5,21,Média
+9,Novo Fertilizante,Húmus,7.0,72.3,90.2,23,Alta
+10,Controle,Argiloso,6.5,47.5,59.9,13,Baixa
+11,Padrão,Arenoso,6.8,60.8,75.4,19,Média
+12,Novo Fertilizante,Húmus,7.1,77.1,98.7,26,Alta
+13,Controle,Argiloso,6.4,46.0,57.1,12,Baixa
+14,Padrão,Arenoso,6.7,63.2,79.8,20,Média
+15,Novo Fertilizante,Húmus,7.2,80.5,105.3,30,Alta
+16,Controle,Argiloso,6.6,44.5,54.2,11,Baixa
+17,Padrão,Arenoso,6.9,61.5,77.0,19,Média
+18,Novo Fertilizante,Húmus,7.0,74.0,92.8,24,Alta
+19,Controle,Argiloso,6.5,49.0,61.5,15,Baixa
+20,Padrão,Arenoso,6.8,59.3,73.6,18,Média
+21,Novo Fertilizante,Húmus,7.1,76.5,97.1,27,Alta
+22,Controle,Argiloso,6.4,43.5,52.9,10,Baixa
+23,Padrão,Arenoso,6.7,64.8,81.3,22,Média
+24,Novo Fertilizante,Húmus,7.2,79.9,103.5,29,Alta
+25,Controle,Argiloso,6.6,48.8,60.9,14,Baixa
+26,Padrão,Arenoso,6.9,60.1,74.5,19,Média
+27,Novo Fertilizante,Húmus,7.0,73.1,91.4,24,Alta
+28,Controle,Argiloso,6.5,45.8,56.7,12,Baixa
+29,Padrão,Arenoso,6.8,62.0,77.9,21,Média
+30,Novo Fertilizante,Húmus,7.1,78.2,100.2,28,Alta

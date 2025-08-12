@@ -1,0 +1,101 @@
+﻿ID do Grupo,Estação do Ano,Tipo de Habitat,Número de Indivíduos Adultos,Número de Filhotes,Proximidade à Água (m)
+1,Chuvosa,Floresta de Galeria,12,5,15.5
+2,Chuvosa,Pastagem,8,3,25.2
+3,Seca,Área Alagada,15,7,5.0
+4,Seca,Pastagem,9,2,30.1
+5,Chuvosa,Floresta de Galeria,10,4,18.7
+6,Seca,Área Alagada,14,6,6.3
+7,Chuvosa,Pastagem,11,4,22.8
+8,Seca,Floresta de Galeria,7,1,35.5
+9,Chuvosa,Pastagem,13,5,20.0
+10,Chuvosa,Floresta de Galeria,10,3,17.4
+11,Seca,Área Alagada,16,8,4.5
+12,Seca,Pastagem,8,2,28.9
+13,Chuvosa,Floresta de Galeria,11,4,19.3
+14,Chuvosa,Pastagem,9,3,21.5
+15,Seca,Área Alagada,15,7,7.1
+16,Chuvosa,Floresta de Galeria,12,5,16.8
+17,Chuvosa,Pastagem,10,4,24.0
+18,Seca,Área Alagada,17,9,3.8
+19,Seca,Pastagem,9,2,32.4
+20,Chuvosa,Floresta de Galeria,11,4,17.9
+21,Chuvosa,Pastagem,12,5,23.5
+22,Seca,Área Alagada,16,8,5.5
+23,Seca,Pastagem,10,3,29.8
+24,Chuvosa,Floresta de Galeria,13,5,18.0
+25,Chuvosa,Pastagem,11,4,21.0
+26,Seca,Área Alagada,18,9,4.2
+27,Seca,Pastagem,11,3,31.7
+28,Chuvosa,Floresta de Galeria,14,6,15.0
+29,Chuvosa,Pastagem,10,4,25.0
+30,Seca,Área Alagada,17,8,6.0
+31,Chuvosa,Floresta de Galeria,12,5,16.5
+32,Chuvosa,Pastagem,9,3,22.5
+33,Seca,Área Alagada,16,7,5.8
+34,Seca,Pastagem,10,2,30.5
+35,Chuvosa,Floresta de Galeria,13,6,17.2
+36,Seca,Área Alagada,15,8,4.8
+37,Chuvosa,Pastagem,11,4,23.1
+38,Seca,Floresta de Galeria,8,1,34.0
+39,Chuvosa,Pastagem,14,5,20.5
+40,Chuvosa,Floresta de Galeria,11,4,18.8
+41,Seca,Área Alagada,17,9,4.0
+42,Seca,Pastagem,9,3,29.5
+43,Chuvosa,Floresta de Galeria,12,5,19.0
+44,Chuvosa,Pastagem,10,4,22.0
+45,Seca,Área Alagada,16,8,6.5
+46,Chuvosa,Floresta de Galeria,13,6,17.5
+47,Chuvosa,Pastagem,11,4,24.5
+48,Seca,Área Alagada,18,9,3.5
+49,Seca,Pastagem,10,2,33.0
+50,Chuvosa,Floresta de Galeria,12,5,18.5
+51,Chuvosa,Pastagem,13,5,23.0
+52,Seca,Área Alagada,17,8,5.2
+53,Seca,Pastagem,11,3,28.0
+54,Chuvosa,Floresta de Galeria,14,6,16.0
+55,Chuvosa,Pastagem,12,5,20.8
+56,Seca,Área Alagada,19,10,3.0
+57,Seca,Pastagem,12,4,30.8
+58,Chuvosa,Floresta de Galeria,15,7,14.5
+59,Chuvosa,Pastagem,11,4,26.0
+60,Seca,Área Alagada,18,9,5.0
+61,Chuvosa,Floresta de Galeria,13,6,16.9
+62,Chuvosa,Pastagem,10,3,21.8
+63,Seca,Área Alagada,17,8,6.2
+64,Seca,Pastagem,11,3,29.1
+65,Chuvosa,Floresta de Galeria,14,7,15.8
+66,Seca,Área Alagada,16,8,4.7
+67,Chuvosa,Pastagem,12,5,23.8
+68,Seca,Floresta de Galeria,9,2,35.0
+69,Chuvosa,Pastagem,13,6,20.2
+70,Chuvosa,Floresta de Galeria,11,4,18.3
+71,Seca,Área Alagada,18,9,4.1
+72,Seca,Pastagem,10,3,29.3
+73,Chuvosa,Floresta de Galeria,12,5,19.5
+74,Chuvosa,Pastagem,11,4,22.3
+75,Seca,Área Alagada,17,8,6.8
+76,Chuvosa,Floresta de Galeria,13,6,17.1
+77,Chuvosa,Pastagem,12,5,24.2
+78,Seca,Área Alagada,19,10,3.6
+79,Seca,Pastagem,11,3,32.8
+80,Chuvosa,Floresta de Galeria,14,7,15.3
+81,Chuvosa,Pastagem,13,6,25.5
+82,Seca,Área Alagada,18,9,5.5
+83,Seca,Pastagem,12,4,28.5
+84,Chuvosa,Floresta de Galeria,15,7,14.8
+85,Chuvosa,Pastagem,14,6,20.1
+86,Seca,Área Alagada,20,11,2.5
+87,Seca,Pastagem,13,5,31.2
+88,Chuvosa,Floresta de Galeria,16,8,14.0
+89,Chuvosa,Pastagem,12,5,27.0
+90,Seca,Área Alagada,19,10,4.9
+91,Chuvosa,Floresta de Galeria,14,7,16.2
+92,Chuvosa,Pastagem,13,6,22.6
+93,Seca,Área Alagada,18,9,5.3
+94,Seca,Pastagem,14,6,29.9
+95,Chuvosa,Floresta de Galeria,15,8,17.0
+96,Seca,Área Alagada,20,10,3.9
+97,Chuvosa,Pastagem,14,7,24.8
+98,Seca,Pastagem,15,7,30.7
+99,Chuvosa,Floresta de Galeria,16,8,15.6
+100,Seca,Área Alagada,21,12,2.8
